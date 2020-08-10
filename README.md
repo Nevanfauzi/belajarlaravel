@@ -1,2 +1,2 @@
 # belajarlaravel
-tugas web lanjUtan E1
+tugas web lanjutan E1
